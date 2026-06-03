@@ -58,7 +58,7 @@ $ns at 0.5 "$cbr0 start"
 $ns at 4.5 "$cbr0 stop"
 #Call the finish procedure after 5 seconds of simulation time
 $ns at 5.0 "finish"
-$ns run
+$ns run 
  ```
 # OUTPUT
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/c40f20d6-4db3-4372-b79b-68d861ba889e" />
